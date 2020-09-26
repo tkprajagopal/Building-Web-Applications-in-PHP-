@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> dd6dba44 </title>
+<title> 'dd6dba44' </title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
